@@ -1,0 +1,10 @@
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe.config
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.exe
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.pdb
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\bin\Debug\Fat Percentage Calculator.xml
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Form1.resources
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat_Percentage_Calculator.Resources.resources
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.vbproj.GenerateResource.Cache
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.exe
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.xml
+C:\Users\jd306127.DCSD\Desktop\Visual Basic Jack\Fat Percentage Calculator\Fat Percentage Calculator\obj\Debug\Fat Percentage Calculator.pdb
